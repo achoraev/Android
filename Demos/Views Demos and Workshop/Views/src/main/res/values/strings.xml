@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AndroidCourse</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_view_from_xml">ViewFromXml</string>
+    <string name="title_activity_view_from_code">ViewFromCode</string>
+    <string name="title_activity_view_layout_and_touch">ViewLayoutAndTouch</string>
+    <string name="title_activity_canvas_drawing">CanvasDrawing</string>
+    <string name="title_activity_default_controls">DefaultControls</string>
+    <string name="title_activity_extending_controls">ExtendingControls</string>
+    <string name="title_activity_custom_views_workshop">CustomViewsWorkshop</string>
+    <string name="title_activity_test">TestActivity</string>
+
+</resources>

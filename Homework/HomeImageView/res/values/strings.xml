@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="action_settings">Settings</string>
+    <string name="app_name">AudiGalery</string>    
+    <string name="audi_abt">Audi ABT</string>
+    <string name="audi_rs6">Audi RS6</string>
+    <string name="audi_r8">Audi R8</string>
+
+</resources>

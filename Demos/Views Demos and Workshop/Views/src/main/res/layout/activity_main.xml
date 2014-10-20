@@ -1,0 +1,68 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        style="@style/MainLabel"
+        android:text="Views Demo"/>
+
+    <Button
+        android:id="@+id/viewFromXml"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="From XML"/>
+
+    <Button
+        android:id="@+id/viewFromCode"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="From Code"/>
+
+    <Button
+        android:id="@+id/layoutAndTouch"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Layout and Touch"/>
+
+    <TextView
+        style="@style/MainLabel"
+        android:text="Canvas Demo"/>
+
+    <Button
+        android:id="@+id/canvas_drawing"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Canvas Drawing"/>
+
+    <TextView
+        style="@style/MainLabel"
+        android:text="Default Controls Demo"/>
+
+    <Button
+        android:id="@+id/default_controls"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Default Controls"/>
+
+    <TextView
+        style="@style/MainLabel"
+        android:text="Extending default controls"/>
+
+    <Button
+        android:id="@+id/extending_controls"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Extending Controls"/>
+
+    <TextView
+        style="@style/MainLabel"
+        android:text="Custom Views Workshop"/>
+
+    <Button
+        android:id="@+id/custom_views_workshop"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Workshop"/>
+
+</LinearLayout>

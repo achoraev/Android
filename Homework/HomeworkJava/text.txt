@@ -1,0 +1,4 @@
+Count Words in a String Counts the number of individual words in a string.
+For added complexity read these strings in from a text file and generate a summary.
+Random Gift Suggestions Enter various gifts for certain people when you think of them.
+When its time to give them a gift xmas, birthday, anniversary it will randomly pick one and perhaps places you can get it.

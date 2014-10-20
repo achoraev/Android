@@ -1,0 +1,37 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!--<item name="android:textViewStyle">@style/TextViewStyle</item>-->
+    </style>
+
+    <style name="RadioStyle" parent="AppTheme">
+        <item name="android:background">@drawable/radio_bg_selector</item>
+        <item name="android:textColor">#fff</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">match_parent</item>
+    </style>
+
+    <style name="ButtonStyle">
+        <item name="android:layout_marginTop">10dp</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:background">@drawable/btn_bg_selector</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="TextViewStyle">
+        <item name="android:typeface">monospace</item>
+        <item name="android:background">#384e5c</item>
+    </style>
+
+    <style name="MainLabel">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">#333333</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:typeface">monospace</item>
+    </style>
+
+</resources>
